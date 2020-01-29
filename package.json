@@ -1,0 +1,25 @@
+{
+  "name": "testguk",
+  "version": "1.0.0",
+  "description": "Test task for GUK",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Rndjester/testGUK.git"
+  },
+  "keywords": [
+    "light"
+  ],
+  "author": "Eugene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rndjester/testGUK/issues"
+  },
+  "homepage": "https://github.com/Rndjester/testGUK#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
